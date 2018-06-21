@@ -3,8 +3,6 @@ package main
 // Библиотеки, нужные программе
 import (
 	"log"
-
-	"gopkg.in/telegram-bot-api.v4"
 )
 
 func main() {
